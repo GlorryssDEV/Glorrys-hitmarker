@@ -4,3 +4,5 @@ Armour
 <img width="94" height="65" alt="{8803759E-F6C4-4259-A530-FC9D16DE5592}" src="https://github.com/user-attachments/assets/5e817596-c115-43c5-be96-7b770bce1a46" />
 Health
 <img width="54" height="43" alt="{D7CA928A-D18C-429B-BAC8-3E822AFD6800}" src="https://github.com/user-attachments/assets/8cfcae80-7b0b-41ff-80ba-b2955a52c106" />
+
+https://streamable.com/s7wjg0
